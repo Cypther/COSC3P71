@@ -1,0 +1,140 @@
+fileName: TSP-GA-UniformOrderCrossOver
+numberPerFun: 5
+elitism: TRUE
+elitismRate: 0.1
+crossOver: 1.0
+mutationRate: 0
+generations: 10000
+population: 50
+UniformOrderCrossOver: TRUE
+OrderCrossOver: FALSE
+tournamentSize: 3
+seed: 7
+****
+
+fileName: TSP-GA-UniformOrderCrossOver
+numberPerFun: 5
+elitism: TRUE
+elitismRate: 0.1
+crossOver: 1
+mutationRate: 0.1
+generations: 10000
+population: 50
+UniformOrderCrossOver: TRUE
+OrderCrossOver: FALSE
+tournamentSize: 3
+seed: 7
+****
+
+fileName: TSP-GA-UniformOrderCrossOver
+numberPerFun: 5
+elitism: TRUE
+elitismRate: 0.1
+crossOver: 0.8
+mutationRate: 0.0
+generations: 10000
+population: 50
+UniformOrderCrossOver: TRUE
+OrderCrossOver: FALSE
+tournamentSize: 3
+seed: 7
+****
+
+fileName: TSP-GA-UniformOrderCrossOver
+numberPerFun: 5
+elitism: TRUE
+elitismRate: 0.1
+crossOver: 0.8
+mutationRate: 0.1
+generations: 10000
+population: 50
+UniformOrderCrossOver: TRUE
+OrderCrossOver: FALSE
+tournamentSize: 3
+seed: 7
+****
+
+fileName: TSP-GA-OrderCrossOver
+numberPerFun: 5
+elitism: TRUE
+elitismRate: 0.1
+crossOver: 1.0
+mutationRate: 0.0
+generations: 10000
+population: 50
+UniformOrderCrossOver: FALSE
+OrderCrossOver: TRUE
+tournamentSize: 3
+seed: 7
+****
+
+fileName: TSP-GA-OrderCrossOver
+numberPerFun: 5
+elitism: TRUE
+elitismRate: 0.1
+crossOver: 1.0
+mutationRate: 0.1
+generations: 10000
+population: 50
+UniformOrderCrossOver: FALSE
+OrderCrossOver: TRUE
+tournamentSize: 3
+seed: 7
+****
+
+fileName: TSP-GA-OrderCrossOver
+numberPerFun: 5
+elitism: TRUE
+elitismRate: 0.1
+crossOver: 0.8
+mutationRate: 0.0
+generations: 10000
+population: 50
+UniformOrderCrossOver: FALSE
+OrderCrossOver: TRUE
+tournamentSize: 3
+seed: 7
+****
+
+fileName: TSP-GA-OrderCrossOver
+numberPerFun: 5
+elitism: TRUE
+elitismRate: 0.1
+crossOver: 0.8
+mutationRate: 0.1
+generations: 10000
+population: 50
+UniformOrderCrossOver: FALSE
+OrderCrossOver: TRUE
+tournamentSize: 3
+seed: 7
+****
+
+
+fileName: TSP-GA-OWN-PARAMETER-SETTINGS
+numberPerFun: 5
+elitism: TRUE
+elitismRate: 0.1
+crossOver: 0.8
+mutationRate: 0.015
+generations: 10000
+population: 500
+UniformOrderCrossOver: TRUE
+OrderCrossOver: FALSE
+tournamentSize: 3
+seed: 7
+****
+
+fileName: TSP-GA-OWN-PARAMETER-SETTINGS
+numberPerFun: 5
+elitism: TRUE
+elitismRate: 0.1
+crossOver: 0.8
+mutationRate: 0.015
+generations: 10000
+population: 500
+UniformOrderCrossOver: FALSE
+OrderCrossOver: TRUE
+tournamentSize: 3
+seed: 7
+****
